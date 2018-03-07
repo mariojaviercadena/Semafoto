@@ -9,6 +9,16 @@ Con esta práctica ilustraremos cómo debe estructurar un programa en Arduino, t
 Un código Arduino es una serie de comandos de programación que le dirán a nuestro microcontrolador como configurarse al iniciarse y qué acciones tiene que realizar mientras esté en funcionamiento. Estos comandos utilizados en Arduino son sentencias muy fáciles e intuitivas.
 
 
+![Imagen Arduino](Esquema.jpg "Esquema")
+
+![Imagen Arduino](WP_20180215_09_24_42_Pro.jpg "Foto Practica")
+
+![Imagen Arduino](WP_20180215_09_25_50_Pro.jpg "Foto Practica")
+
+
+![Imagen Arduino](WP_20180215_09_26_08_Pro.jpg "Foto Practica")
+
+
 
 
 
